@@ -33,6 +33,7 @@ rzuf
 Atleta
 Saollin
 Swift
+Kamyś
 Pinio
 Przemq
 tmek1244
@@ -43,3 +44,4 @@ Alkoholik
 Frontendowiec
 Defau1t
 RadekKpc
+Kamyś
